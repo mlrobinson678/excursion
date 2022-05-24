@@ -20,8 +20,13 @@ h3 {
     font-size: 21px;
     color: gray;
 }
-.link--cta {
+a {
     color: aquamarine;
     font-size: 16px;
     text-decoration: underline;
+}
+footer p {
+font-size: 21px;
+color: gray;
+text-align: right;
 }
